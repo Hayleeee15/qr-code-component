@@ -1,4 +1,12 @@
-Simple html page linked to a stylesheet
+# QR Code Component 🚀
 
-Using display: flex to align the page
+## Overview
+This is a simple card with a QR code displayed
+
+### Built With
+🔴 Semantic HTML
+
+🔴 CSS Custom Properties
+
+🔴 CSS Flex
 
