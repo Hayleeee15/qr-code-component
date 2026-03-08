@@ -20,7 +20,7 @@ This is a simple card with a QR code displayed
     <img src="./images/qrcode-mobile.png" alt="Mobile Preview" width="250"><br>
   </div>
   <div>
-    <b>Desktop Design</b>
+    <b>Desktop Design:</b>
   </div>
   <div>
     <img src="./images/qrcode-desktop.png" alt="Desktop Preview" width="500"><br>
